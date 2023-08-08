@@ -484,14 +484,6 @@ summary::-webkit-details-marker {
                 }
             }
         }
-        .product-slider {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            flex-wrap: wrap;
-            justify-content: center;
-            margin-bottom: 63.5px
-        }
     }
     .footer-top__content {
         grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));

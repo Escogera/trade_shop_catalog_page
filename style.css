@@ -496,14 +496,6 @@ summary::-webkit-details-marker {
   .main .product-box__product-card.card-3 {
     display: none;
   }
-  .main .product-slider {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-bottom: 63.5px;
-  }
   .footer-top__content {
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
     justify-items: center;
