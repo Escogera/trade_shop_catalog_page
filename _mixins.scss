@@ -1,3 +1,13 @@
+@mixin MobileHorisontContenCenter() {
+    margin: 0 auto;
+    max-width: 393px;
+}
+
+@mixin MobileVerticalContenCenter() {
+    margin: 0 auto;
+    max-width: 359px;
+}
+
 @mixin contenCenter() {
     margin: 0 auto;
     max-width: 1126px;
