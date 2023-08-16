@@ -630,6 +630,13 @@ summary::-webkit-details-marker {
   .main .filter-sort .product-caracteristics__item-name {
     font-size: 12px;
   }
+  .main .filter-sort .product-box {
+    gap: 16px;
+    padding-bottom: 40.5px;
+  }
+  .main .filter-sort .product-slider {
+    margin-bottom: 64.5px;
+  }
   .header-top__content {
     flex-flow: column;
     padding-top: 24px;
